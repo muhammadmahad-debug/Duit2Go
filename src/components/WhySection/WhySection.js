@@ -3,56 +3,58 @@ import React from "react";
 
 const WhySection = () => {
   return (
-    <section id='content-2' className='wide-60 content-section division'>
-      <div className='container'>
-        <div className='row d-flex align-items-center'>
-          <div className='col-md-5 col-lg-6'>
+    <section id="content-2" className="wide-60 content-section division">
+      <div className="container">
+        <div className="row d-flex align-items-center">
+          <div className="col-md-5 col-lg-6">
             <div
-              className='img-block left-column mb-40 wow fadeInRight'
-              data-wow-delay='0.6s'
+              className="img-block left-column mb-40 wow fadeInRight"
+              data-wow-delay="0.6s"
             >
               <img
-                className='img-fluid'
-                src='./assets/images/img-06.png'
-                alt='content-image'
+                className="img-fluid"
+                src="./assets/images/mobile_picture_4.jpg"
+                alt="content-image"
               />
             </div>
           </div>
 
-          <div className='col-md-7 col-lg-6'>
+          <div className="col-md-7 col-lg-6">
             <div
-              className='txt-block right-column pc-30 mb-40 wow fadeInLeft'
-              data-wow-delay='0.4s'
+              className="txt-block right-column pc-30 mb-40 wow fadeInLeft"
+              data-wow-delay="0.4s"
             >
-              <h3 className='h3-sm'>Stay connected with your friends easily</h3>
+              <h3 className="h3-sm">What is Earned Wage Access?</h3>
 
-              <ul className='simple-list grey-color'>
-                <li className='list-item'>
-                  <p className='p-md'>
-                    Fringilla risus, luctus mauris orci auctor purus euismod
-                    pretium purus pretium ligula rutrum tempor sapien
+              <ul className="simple-list grey-color">
+                <li className="list-item">
+                  <p className="p-md">
+                    As part of a financial wellbeing platform designed to
+                    increase savings and reduce reliance on credit, EWA simply
+                    means employers can offer employees access to their
+                    already-earned wages, throughout the month.
                   </p>
                 </li>
 
-                <li className='list-item'>
-                  <p className='p-md'>
-                    Quaerat sodales sapien euismod purus blandit purus ipsum
-                    primis in cubilia laoreet augue luctus magna dolor luctus
-                    undo an egestas sapien vitae
+                <li className="list-item">
+                  <p className="p-md">
+                    EWA is proven with data to improve financial wellbeing and
+                    reduce reliance on predatory forms of lending by 88%. No
+                    interest is charged and it is not an advance.
                   </p>
                 </li>
 
-                <li className='list-item'>
-                  <p className='p-md'>
-                    Nemo ipsam egestas volute turpis dolores ut aliquam quaerat
-                    sodales sapien undo pretium a purus mauris
+                <li className="list-item">
+                  <p className="p-md">
+                    According to the Financial Conduct Authority, EWA is not a
+                    loan and should not be considered a form of credit.
                   </p>
                 </li>
               </ul>
 
               <a
-                href='#content-4'
-                className='btn btn-md btn-tra-grey theme-hover'
+                href="#content-4"
+                className="btn btn-md btn-tra-grey best-solutions "
               >
                 Best Solutions
               </a>
